@@ -1,0 +1,7 @@
+{
+    "name": "fonttester",
+    "scripts": {
+      "sw": "sw-precache --config=sw-precache-config.js"
+    }
+  }
+  
